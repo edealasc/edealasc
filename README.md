@@ -4,7 +4,7 @@ Welcome to my GitHub space! I’m a passionate developer constantly exploring th
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your_username&color=fb4362)
+![](https://komarev.com/ghpvc/?username=edealasc&color=fb4362)
 
 <h3>🛠️ When I code, I rely on</h3>
 <p>
@@ -43,6 +43,5 @@ Welcome to my GitHub space! I’m a passionate developer constantly exploring th
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edealasc&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edealasc&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ---
