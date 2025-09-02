@@ -37,11 +37,5 @@ Welcome to my GitHub space! I’m a passionate developer constantly exploring th
 - Clean Architecture in backend systems (Django / .NET)
 
 
----
-
-### 📊 My GitHub contributions summary
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edealasc&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
 
 ---
